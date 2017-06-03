@@ -38,9 +38,9 @@ In conclusion, I can say that I have learned a lot by working with others in the
 **Technologies Used:**
 ***
 
-+HTML5
-+CSS3
-+SASS
-+Bootstrap
++ HTML5
++ CSS3
++ SASS
++ Bootstrap
  
 
