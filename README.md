@@ -34,5 +34,13 @@ As a preprocessor to css, we used SASS where we worked a lot with variables and 
 In the second section we got to work with a framework. We chose to work with the Bootstrap framework only. It was about adapting us to the bootstrap rules and making use of all the possibilities it gives us. It is very easy to get started using bootstrap but to master it the learning curve is a little steeper. Freedom disappears, but results get much faster with bootstrap.
 
 In conclusion, I can say that I have learned a lot by working with others in the group. I had to use your own knowledge in a different way, and I learned quite a few new ways to solve the problem. One important thing I want to point out is that you learned how to dare ask for help and how to find the solution at last.
+
+**Technologies Used:**
+***
+
++HTML5
++CSS3
++SASS
++Bootstrap
  
 
